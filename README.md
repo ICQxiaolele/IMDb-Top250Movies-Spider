@@ -5,4 +5,3 @@ IMDb-Top250Movies-Spider(re).py是使用了正则匹配对网页内容进行解�
 
 IMDb-Top250Movies-Spider(xpath).py是使用了xpath对网页内容进行解析，使用到了xpath解析库‘
 
-test
